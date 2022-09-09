@@ -23,7 +23,7 @@ pip install questionary
 
 ## Usage
 
-<img width="627" alt="UsageGuide:README" src="https://user-images.githubusercontent.com/111939161/189257932-c295928a-7f6c-4201-b908-2047307e1aaf.png">
+<img width="572" alt="FinalUsageSS:README" src="https://user-images.githubusercontent.com/111939161/189263351-e5d59804-3091-4f8b-a8aa-ecdda390a321.png">
 
 ---
 
@@ -39,7 +39,7 @@ https://www.linkedin.com/in/william-wolfenbarger-951379160/
 ---
 
 ## License
-"Trilogy Education Services" 
+[MIT](LICENSE)
 
 ---
 
