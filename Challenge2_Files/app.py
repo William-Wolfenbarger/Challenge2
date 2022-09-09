@@ -103,11 +103,6 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
 
 
-    
-   
-
-
-
 def run():
     """The main function for running the script."""
 
@@ -125,8 +120,10 @@ def run():
     # Save qualifying loans
     ##csvpath = Path("qualifying_loans.csv")
     ##save_csv(csvpath, qualifying_loans)
-    save_qualifying_loans = questionary.text("Enter a file path to save the result (.csv)").ask()
-    save_csv(save_qualifying_loans, qualifying_loans)
+    save_file= questionary.confirm("Would you like to save the qualifying loans?").ask()
+    if save_file:
+       save_qualifying_loans = questionary.text("Please enter a filepath for the saved data: (qualifying_loans.csv)").ask()
+       save_csv(Path(save_qualifying_loans), qualifying_loans)
     
 
 

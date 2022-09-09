@@ -12,15 +12,15 @@ This loan qualification app was built using Python. Essential to import sys, fir
 ---
 
 ## Installation Guide
+pip install python
+pip install fire
+pip install questionary
 
-
-In this section, you should include detailed installation notes containing code blocks and screenshots.
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
 
 ---
 
@@ -36,5 +36,4 @@ https://www.linkedin.com/in/william-wolfenbarger-951379160/
 ---
 
 ## License
-
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+"Trilogy Education Services" 
