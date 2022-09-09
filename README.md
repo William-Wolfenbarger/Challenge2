@@ -41,7 +41,6 @@ https://www.linkedin.com/in/william-wolfenbarger-951379160/
 
 ## License
 "Trilogy Education Services" 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
 
 ---
 
