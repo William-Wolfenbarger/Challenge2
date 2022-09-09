@@ -24,7 +24,6 @@ pip install questionary
 ## Usage
 
 <img width="627" alt="UsageGuide:README" src="https://user-images.githubusercontent.com/111939161/189257932-c295928a-7f6c-4201-b908-2047307e1aaf.png">
-This section should include screenshots, code blocks, or animations explaining how to use your project.
 
 ---
 
