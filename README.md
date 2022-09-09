@@ -15,8 +15,8 @@ This loan qualification app was built using Python. Essential to import sys, fir
 ---
 
 ## Installation Guide
-pip install python
-pip install fire
+pip install python; 
+pip install fire; 
 pip install questionary
 
 ---
@@ -31,8 +31,8 @@ pip install questionary
 
 This project was a solo undertaking where I received assistance from LearnBCS assistant's and my tutor, Lavina Tang. They were indispenasable in providing troubleshooting assistance when I ran into issues I could not reseolve via the modules or Google. 
 
-William Cody Wolfenbarger
-william.wolfenbarger@comcast.net
+William Cody Wolfenbarger; 
+william.wolfenbarger@comcast.net; 
 https://www.linkedin.com/in/william-wolfenbarger-951379160/
 
 
