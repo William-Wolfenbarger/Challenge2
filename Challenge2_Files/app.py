@@ -6,24 +6,26 @@ This is a command line application to match applicants with qualifying loans.
 Example:
     $ python app.py
 """
+#import necessary libraries
 import sys
 import fire
 import questionary
 from pathlib import Path
 
+#pull csv functions from fileio module
 from qualifier.utils.fileio import load_csv, save_csv
-
+#pull finanical calculators from calc module
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
     calculate_loan_to_value_ratio,
 )
-
+#pull filters from filters module
 from qualifier.filters.max_loan_size import filter_max_loan_size
 from qualifier.filters.credit_score import filter_credit_score
 from qualifier.filters.debt_to_income import filter_debt_to_income
 from qualifier.filters.loan_to_value import filter_loan_to_value
 
-
+#load daily rate sheet csv
 def load_bank_data():
     """Ask for the file path to the latest banking data and load the CSV file.
 
@@ -38,7 +40,7 @@ def load_bank_data():
 
     return load_csv(csvpath)
 
-
+#develop CLI for applicant information
 def get_applicant_info():
     """Prompt dialog to get the applicant's financial information.
 
@@ -60,7 +62,7 @@ def get_applicant_info():
 
     return credit_score, debt, income, loan_amount, home_value
 
-
+#run our function that will find qualifiying loans from our data, filter it, and make new list with qualifying loans
 def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_value):
     """Determine which loans the user qualifies for.
 
@@ -102,7 +104,7 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     return bank_data_filtered
 
 
-
+#run our script in CLI so users can generate a qualifying_loans.csv file so they can compare qulaifying loans, if any
 def run():
     """The main function for running the script."""
 
