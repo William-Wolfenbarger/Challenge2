@@ -1,18 +1,18 @@
 # Project Title
 
-This project is designed to rapidly accelerate the loan qualification process for front-end users 
+This project is designed to rapidly accelerate the loan qualification process for front-end users by allowing them to input the criteria necessary to be reviewed. As long as at least one qualifying loan is found from the bank data pool, users will have the option to save the qualifying loans to a CSV file so that they can share the results via a spreadsheet. This application will streamline loan qualification for users by eliminating the need to submit an individual loan application for each individual bank, and allow for direct comparison by smoothly exporting data into a spreadsheet.
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+This loan qualification app was built using Python. Essential to import sys, fire, question, and pathlib (Path). We also used a modular framework established in a qualifier folder which contained a utils folder that had helper functions to load csv data and financial calculators as well as a filters folder, used to hold 4 filters that elminated loans the user did not qualify for in the final list based off of entered criteria. 
 
 ---
 
 ## Installation Guide
+
 
 In this section, you should include detailed installation notes containing code blocks and screenshots.
 
@@ -26,7 +26,12 @@ This section should include screenshots, code blocks, or animations explaining h
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+This project was a solo undertaking where I received assistance from LearnBCS assistant's and my tutor, Lavina Tang. They were indispenasable in providing troubleshooting assistance when I ran into issues I could not reseolve via the modules or Google. 
+
+William Cody Wolfenbarger
+william.wolfenbarger@comcast.net
+https://www.linkedin.com/in/william-wolfenbarger-951379160/
+
 
 ---
 
