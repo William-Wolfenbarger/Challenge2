@@ -1,0 +1,586 @@
+   50  touch sample.txt
+   51  cd test
+   52  cd Desktop
+   53  mkdir test
+   54  touch smaple.txt
+   55  cd test
+   56  ls
+   57  cd ..
+   58  mv sample.txt test
+   59  cd test
+   60  ls
+   61  mv sample.txt example.txt
+   62  cd test 
+   63  ls
+   64  ls -al ~/ .ssh
+   65  ssh-keygen -t rsa -b 4096 -C "william.wolfenbarger@comcast.net"
+   66  eval "$(ssh-agent -s)"
+   67  ssh-add ~/ .ssh/id_rsa
+   68  x3557190
+   69  ssh-add ~/.ssh/id_rsa
+   70  pbcopy < ~/.ssh/id_rsa.pub
+   71  ssh -T git@github.com
+   72  cd ~/git
+   73  mkdir <github>
+   74  mkdir <git>
+   75  mkdir <git>
+   76  mkdir git
+   77  cd git
+   78  git clone git@github.com:William-Wolfenbarger/codingdemo.git
+   79  open
+   80  cd git@github.com:William-Wolfenbarger/codingdemo.git
+   81  cd codingdemo
+   82  cd git
+   83  open .
+   84  cd codingdemo/
+   85  cd codingdemo
+   86  ls
+   87  git add -A
+   88  git commit -m "Added an index.html file"
+   89  git push origin master
+   90  git push origin main
+   91  git checkout -b header
+   92  git add -A
+   93  git commit -m "Adds a header a to index.html"
+   94  git push origin header
+   95  git checkout master
+   96  git checkout main
+   97  git pull
+   98  conda activate dev
+   99  jupyter lab
+  100  conda deactivate
+  101  mkdir terminal
+  102  printenv > /var/folders/d9/9k6zhg5x2xgbnnvp7yxm5c3r0000gn/T/tmp-41028SsX6d87ByJ4Utxt
+  103  conda activate dev
+  104  jupyter lab
+  105  conda deactivate
+  106  pwd
+  107  ls
+  108  cd Desktop
+  109  pwd
+  110  ls
+  111  mkdir Fintech-Workspace
+  112  ls
+  113  cd Fintech-Workspace
+  114  cd ..
+  115  cd ~
+  116  ls
+  117  cd Fintech-Workspace
+  118  cd Desktop
+  119  ls
+  120  cd Fintech-Workspace
+  121  ls
+  122  cd Python_Project/
+  123  ls
+  124  conda activate dev
+  125  python --version
+  126  code .
+  127  python hello_python
+  128  python hello_python.py
+  129  conda deactivate
+  130  cd desktop
+  131  cd Desktop
+  132  ls
+  133  conda activate dev
+  134  python create_variable.py
+  135  code ..
+  136  python create_variable.py
+  137  python create_variable.py
+  138  python create_variable.py
+  139  cd Desktop
+  140  ls
+  141  cd Fintech-Workspace
+  142  ls
+  143  cd Python_Project
+  144  ls
+  145  cd create_variable.py
+  146  conda activate dev
+  147  python create_variable.py
+  148  cd Downloads
+  149  cd Downloads
+  150  cd 01_Hello_Variable_World
+  151  cd Unsolved
+  152  conda activate dev
+  153  python hello_variable_world.py
+  154  pyhton hello_variable_world.py
+  155  python hello_variable_world.py
+  156  python hello_variable_world.py
+  157  /usr/local/bin/python3
+  158  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/list_builds.py
+  159  /usr/local/bin/python3
+  160  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/list_builds.py
+  161  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/list_builds.py
+  162  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/list_builds.py
+  163  /usr/local/bin/python3 "/Users/wolfincglobal/Downloads/02_Listing_Assets 2/Unsolved/listing_assets.py"
+  164  /usr/local/bin/python3 "/Users/wolfincglobal/Downloads/02_Listing_Assets 2/Unsolved/listing_assets.py"
+  165  /usr/local/bin/python3 "/Users/wolfincglobal/Downloads/02_Listing_Assets 2/Unsolved/listing_assets.py"
+  166  /usr/local/bin/python3 "/Users/wolfincglobal/Downloads/02_Listing_Assets 2/Unsolved/listing_assets.py"
+  167  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/first_dictionaries.py
+  168  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/first_dictionaries.py
+  169  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/first_dictionaries.py
+  170  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/first_dictionaries.py
+  171  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/first_dictionaries.py
+  172  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/first_dictionaries.py
+  173  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/first_dictionaries.py
+  174  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/first_dictionaries.py
+  175  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/first_dictionaries.py
+  176  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/first_dictionaries.py
+  177  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  178  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  179  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  180  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  181  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  182  cd desktop
+  183  cd fintech-workspace
+  184  cd python_project
+  185  conda activate dev
+  186  python print_name_from_list.py
+  187  python print_name_from_list.py
+  188  pyhton list_builds.py
+  189  python list_builds.py
+  190  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  191  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  192  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  193  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  194  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  195  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  196  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  197  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/first_dictionaries.py
+  198  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  199  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  200  /usr/local/bin/python3
+  201  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  202  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  203  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/create_variable.py
+  204  /usr/local/bin/python3
+  205  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic1.py
+  206  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic1.py
+  207  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic1.py
+  208  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic1.py
+  209  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic1.py
+  210  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic1.py
+  211  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic1.py
+  212  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic1.py
+  213  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic1.py
+  214  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic1.py
+  215  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic2.py
+  216  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic2.py
+  217  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic2.py
+  218  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic3.py
+  219  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic3.py
+  220  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic3.py
+  221  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic3.py
+  222  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic3.py
+  223  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Conditional_Statement/Unsolved/conditional_statement.py
+  224  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Conditional_Statement/Unsolved/conditional_statement.py
+  225  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Complex_Conditionals1.py
+  226  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Complex_Conditionals1.py
+  227  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Complex_Conditionals1.py
+  228  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Complex_Conditionals1.py
+  229  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Complex_Conditionals1.py
+  230  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Complex_Conditionals1.py
+  231  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Complex_Conditionals1.py
+  232  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Complex_Conditionals1.py
+  233  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  234  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  235  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  236  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  237  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  238  /usr/local/bin/python3
+  239  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  240  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  241  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  242  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  243  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  244  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  245  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  246  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  247  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  248  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  249  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  250  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  251  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Conditional_Logic1.py
+  252  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/list_builds.py
+  253  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  254  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  255  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  256  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  257  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  258  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  259  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  260  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  261  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  262  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  263  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  264  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  265  /usr/local/bin/python3
+  266  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  267  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  268  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  269  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  270  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Python_functions.py
+  271  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  272  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  273  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  274  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  275  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  276  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  277  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  278  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  279  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  280  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  281  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  282  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  283  /usr/local/bin/python3 "/Users/wolfincglobal/Downloads/Class_2_Activities 2/07_Stu_Functions/Unsolved/functions.py"
+  284  /usr/local/bin/python3 "/Users/wolfincglobal/Downloads/Class_2_Activities 2/07_Stu_Functions/Unsolved/functions.py"
+  285  /usr/local/bin/python3 "/Users/wolfincglobal/Downloads/Class_2_Activities 2/07_Stu_Functions/Unsolved/functions.py"
+  286  /usr/local/bin/python3 "/Users/wolfincglobal/Downloads/Class_2_Activities 2/07_Stu_Functions/Unsolved/functions.py"
+  287  /usr/local/bin/python3 "/Users/wolfincglobal/Downloads/Class_2_Activities 2/07_Stu_Functions/Unsolved/functions.py"
+  288  /usr/local/bin/python3 "/Users/wolfincglobal/Downloads/Class_2_Activities 2/07_Stu_Functions/Unsolved/functions.py"
+  289  /usr/local/bin/python3 "/Users/wolfincglobal/Downloads/Class_2_Activities 2/07_Stu_Functions/Unsolved/functions.py"
+  290  /usr/local/bin/python3 "/Users/wolfincglobal/Downloads/Class_2_Activities 2/07_Stu_Functions/Unsolved/functions.py"
+  291  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  292  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  293  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  294  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  295  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  296  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  297  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  298  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  299  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators.py
+  300  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators.py
+  301  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators.py
+  302  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators.py
+  303  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators.py
+  304  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators.py
+  305  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators.py
+  306  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators.py
+  307  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators.py
+  308  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators.py
+  309  /usr/local/bin/python3
+  310  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  311  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  312  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  313  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  314  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  315  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  316  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  317  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  318  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  319  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  320  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  321  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  322  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators.py
+  323  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  324  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  325  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Nesting_Iterators.py
+  326  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Nesting_Iterators.py
+  327  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Nesting_Iterators.py
+  328  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Nesting_Iterators.py
+  329  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Nesting_Iterators.py
+  330  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Nesting_Iterators.py
+  331  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators_from_lists.py
+  332  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators_from_lists.py
+  333  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators_from_dictionaries.py
+  334  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators_from_dictionaries.py
+  335  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators_from_dictionaries.py
+  336  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Iterators_from_dictionaries.py
+  337  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/import.py
+  338  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/import.py
+  339  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/import.py
+  340  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/pathways_to_success.py
+  341  cd Fintech-Workspace
+  342  cd desktop
+  343  cd Fintech-Workspace
+  344  pwd
+  345  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/pathways_to_success.py
+  346  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  347  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  348  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  349  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  350  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/pathways_to_success.py
+  351  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/pathways_to_success.py
+  352  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  353  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  354  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  355  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/Starter_Code/loan_analyzer.py
+  356  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/Starter_Code/loan_analyzer.py
+  357  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/Starter_Code/loan_analyzer.py
+  358  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/Starter_Code/loan_analyzer.py
+  359  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/Starter_Code/loan_analyzer.py
+  360  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/Starter_Code/loan_analyzer.py
+  361  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Challenge1.py
+  362  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  363  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  364  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  365  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  366  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  367  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  368  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  369  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  370  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  371  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  372  cd Python_Project
+  373  cd Python_Project
+  374  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  375  cd Python_Project
+  376  python Read_and_write_CSV.py
+  377  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  378  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  379  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  380  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Complex_Conditionals1.py
+  381  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  382  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  383  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  384  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  385  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  386  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  387  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  388  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  389  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  390  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  391  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  392  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  393  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  394  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  395  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  396  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  397  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  398  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  399  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  400  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  401  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  402  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  403  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/Read_and_write_CSV.py
+  404  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  405  cd Python_Project
+  406  ls
+  407  python read_and_write_CSV.py
+  408  python read_and_write_CSV.py
+  409  python pathways_to_success_part_2.py
+  410  python pathways_to_success_part_2.py
+  411  python pathways_to_success_part_2.py
+  412  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/WriteCSV_Files.py
+  413  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/WriteCSV_Files.py
+  414  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/WriteCSV_Files.py
+  415  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/WriteCSV_Files.py
+  416  python WriteCSV_Files.py
+  417  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/WriteCSV_Files.py
+  418  python WriteCSV_Files.py
+  419  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project/WriteCSV_Files.py
+  420  python WriteCSV_files.py
+  421  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  422  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  423  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  424  cd Challenge1 cd Challenge1_Files.py
+  425  python Challenge1.py
+  426  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  427  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  428  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  429  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge1_Files.py/Challenge1.py
+  430  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  431  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  432  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  433  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  434  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  435  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  436  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  437  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project2/Actvities/app.py
+  438  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project2/Actvities/app.py
+  439  cd Desktop
+  440  cd Activities
+  441  cd Python_Project2
+  442  cd Activities
+  443  cd Activities
+  444  python app,py
+  445  python app.py
+  446  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project2/Activities/app.py
+  447  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project2/Activities/app.py
+  448  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project2/Activities/app.py
+  449  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project2/Activities/app.py
+  450  conda activate dev
+  451  pip -V
+  452  pip freeze
+  453  pip install fire
+  454  pip install questionary
+  455  pip install fire
+  456  python setup.py install
+  457  pwd
+  458  cd Desktop
+  459  cd Fintech-Workspace
+  460  cd Python_Project2
+  461  cd Activities
+  462  cd app.py
+  463  ls
+  464  python app.py
+  465  jupyter lab
+  466  cd Desktop
+  467  python app.py
+  468  cd Desktop
+  469  cd Fintech-Workspace
+  470  cd Python_Project2
+  471  cd Activity2.1.8
+  472  ls
+  473  python app1.py
+  474  jupyter lab
+  475  app1.py
+  476  python app1.py
+  477  cd Desktop
+  478  cd Fintech-Workspace
+  479  ls
+  480  cd Python_Project2
+  481  ls
+  482  cd Desktop
+  483  cd Fintech-Workspace
+  484  cd Python_Project2
+  485  ls
+  486  python app3.py
+  487  python import_Calc2.py
+  488  conda activate dev
+  489  jupyter lab
+  490  cd Desktop
+  491  cd Fintech-Workspace/Python_Project2/qualifier
+  492  ls
+  493  python Modularize_Loan_Qualifier.py
+  494  python Modularize_Loan_Qualifier.py
+  495  cd Desktop/Fintech-Workspace/Python_Project2/Activity2.1.8
+  496  ls
+  497  cd Desktop/Fintech-Workspace/Python_Project2/Act     
+  498  cd Desktop
+  499  cd qualifier
+  500  /usr/local/bin/python3 /Users/wolfincglobal/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  501  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project2/cypto_viz.py
+  502  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project2/cypto_viz.py
+  503  /usr/local/bin/python3
+  504  cd Desktop/Fintech-Workspace/Python_Project2/qualifier
+  505  ls
+  506  python Modularize_Loan_Qualifier.py
+  507  python Modularize_Loan_Qualifier.py
+  508  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project2/Activities/app.py
+  509  pip install fire
+  510  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project2/Activities/app.py
+  511  python setup.py install
+  512  cd Desktop
+  513  pip freeze
+  514  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project2/Activities/app.py
+  515  python app,py
+  516  python app.py
+  517  cd Activities
+  518  cd Python_Project2
+  519  cd Activities
+  520  ls
+  521  python app.py
+  522  /usr/local/bin/python3
+  523  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge2_Files/app.py
+  524  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Challenge2_Files/app.py
+  525  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project2/cli.py
+  526  /usr/local/bin/python3 /Users/wolfincglobal/Desktop/Fintech-Workspace/Python_Project2/cli.py
+  527  pwd
+  528  ls
+  529  cd Desktop
+  530  cd ..
+  531  pip install fire
+  532  cd Desktop/Fintech-Workspace/Challenge2_Files
+  533  ls
+  534  python app.py
+  535  pip install questionary
+  536  ls
+  537  python app.py
+  538  python app.pu
+  539  python app.py
+  540  pyhton app.py
+  541  python app.py
+  542  cd ..
+  543  cd ..
+  544  cd Fintech-Workspace/Python_Project2
+  545  ls
+  546  pip install fire
+  547  conda activate dev
+  548  pip install fire
+  549  cd Desktop/Fintech-Workspace/Python_Project2
+  550  ls
+  551  python cli.py
+  552  python cli.py
+  553  python cli.py --pants=True
+  554  cd Activity2.3.4
+  555  ls
+  556  python app.py
+  557  ls
+  558  cd ..
+  559  cd Activity 2.1.8
+  560  ls
+  561  cd Activity2.1.8
+  562  ls
+  563  cd ..
+  564  cd Activity2.3.4
+  565  ls
+  566  cd qualifier
+  567  ls
+  568  python Modularize_Loan_Qualifier.py
+  569  cd Desktop/Fintech-Workspace/Python_Project2/Activity2.2.8/qualifier
+  570  ls
+  571  cd qualifier
+  572  ls
+  573  python Modularize_Loan_Qualifier.py
+  574  python Modularize_Loan_Qualifier.py
+  575  python Modularize_Loan_Qualifier.py
+  576  python Modularize_Loan_Qualifier.py
+  577  python Modularize_Loan_Qualifier.py
+  578  cd ..
+  579  ls
+  580  python Modularize_Loan_Qualifier.py
+  581  python Modularize_Loan_Qualifier.py
+  582  python Modularize_Loan_Qualifier.py --credit score = 750
+  583  python Modularize_Loan_Qualifier.py --credit_score=750
+  584  python Modularize_Loan_Qualifier.py
+  585  python Modularize_Loan_Qualifier.py --credit_score=450
+  586  python Modularize_Loan_Qualifier.py
+  587  python Modularize_Loan_Qualifier.py --credit_score=750
+  588  python Modularize_Loan_Qualifier.py --credit_score=450
+  589  python Modularize_Loan_Qualifier.py
+  590  ls
+  591  python app.opy
+  592  python app.py
+  593  python app.py
+  594  python app.py
+  595  ls
+  596  python Modularize_Loan_Qualifier.py --credit_score=750 --debt=3000 --income=50000
+  597  ls
+  598  python Modularize_Loan_Qualifier.py
+  599  python app.py
+  600  python app.py
+  601  python app.py --credit_score=450
+  602  python app.py --credit_score=750
+  603  cd ..
+  604  cd ..
+  605  cd ..
+  606  cd Challenge2_Files
+  607  ls
+  608  cd qualifier
+  609  ls
+  610  python app.py
+  611  cd ..
+  612  python app.py
+  613  python app.py
+  614  python app.py
+  615  python app.py
+  616  python app.py
+  617  python app.py
+  618  python app.py
+  619  python app.py
+  620  cd Desktop/Fintech-Workspace/Challenge2_Files
+  621  ls
+  622  python app.py
+  623  cd Desktop/Fintech-Workspace/Challenge2_Files
+  624  ls
+  625  python app.py
+  626  cd Desktop/Fintech-Workspace/Challenge2
+  627  cd Desktop/Fintech-Workspace/Challenge2_Files
+  628  ls
+  629  python app.py
+  630  cd Desktop
+  631  ls
+  632  cd Github
+  633  ls
+  634  Challenge2
+  635  cd Challenge2
